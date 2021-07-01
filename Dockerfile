@@ -11,4 +11,4 @@ EXPOSE 8080
 #CMD: vai executar o arquivo JS desta aplicação. OBS.: sempre com aspas duplas
 CMD ["node", "index.js"]
 
-#OBS.: foi setado no .dockerignore os arquivos que não serão copiados
+#OBS.: foi setado no .dockerignore os arquivos que não serão copiados.
